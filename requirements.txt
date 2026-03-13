@@ -5,4 +5,3 @@ yfinance
 pytz
 flask
 gunicorn
-
