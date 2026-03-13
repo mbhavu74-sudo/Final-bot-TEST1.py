@@ -1,0 +1,7 @@
+requests
+pandas
+pandas-ta
+yfinance
+pytz
+flask
+gunicorn
